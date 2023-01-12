@@ -876,6 +876,7 @@ ul.contact-address li i {
 /* ===== Begin footer ===== */
 .footer-top {
 	padding: 60px 0 35px;
+		fontsize: 60px;
 }
 .footer-top .col-md-4 {
 	margin-bottom: 25px;
@@ -886,6 +887,7 @@ ul.contact-address li i {
 }
 .footer a{
 	text-decoration: none;
+		fontsize: 60px;
 }
 
 /*Widget1: Useful Links*/
