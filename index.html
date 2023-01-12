@@ -90,15 +90,25 @@
                 
                 
                       <!-- Begin rotate box-1 -->
+		<style>
+		.hide {
+		  display: none;
+		}
+
+		.myDIV:hover + .hide {
+		  display: block;
+		}
+		</style>
+		
                 <div class="rotate-box-1-wrapper">
                     <div class="container">
                         <div class="row">
                             <div class="col-md-3 col-sm-6">
                                 <a class="rotate-box-1 square-icon wow zoomIn" data-wow-delay="0">
-                                    <span class="rotate-box-icon"><i class="fa fa-location-arrow"></i></span>
+                                    <span class="myDIV" class="rotate-box-icon"><i class="fa fa-location-arrow"></i></span>
                                     <div class="rotate-box-info">
                                         <h4>State</h4>
-                                        <p>Massachusetts</p>
+                                        <p class="hide">Massachusetts</p>
                                     </div>
                                 </a>
                             </div>
