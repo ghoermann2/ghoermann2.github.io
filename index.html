@@ -92,12 +92,12 @@
                       <!-- Begin rotate box-1 -->
 		<style>
 		.hide {
-		  visibility: hidden;
+		  opacity: 0;
 		}
 		.img__wrap {
 		}
-		.img_wrap:hover .hide {
-		  visibility: visible;
+		.img_wrap:hover .rotate-box-info .hide p {
+		  opacity: 1;
 		}
 		</style>
 		
@@ -110,7 +110,8 @@
                                     <span class="rotate-box-icon"><i class="fa fa-location-arrow"></i></span>
                                     <div class="rotate-box-info">
                                         <h4>State</h4>
-                                        <p class="hide">Massachusetts</p>
+					<div class="hide">
+                                        <p>Massachusetts</p></div>
                                     </div>
                                 </a>
 				</div>
