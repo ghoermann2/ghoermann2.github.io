@@ -83,6 +83,13 @@ p {
 p.big{
 	font: 16px/1.5em "Roboto";
 }
+p.left{
+	text-align: left;
+}
+li.left{
+	text-align: left;
+}
+
 .navbar-nav > li > a {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 }
