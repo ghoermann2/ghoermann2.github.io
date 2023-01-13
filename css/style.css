@@ -437,6 +437,9 @@ ul.skill {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
+}
+
+li.skk {
     font: 16px/1.5em "Roboto";
     line-height:200%;
 }
