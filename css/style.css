@@ -437,8 +437,8 @@ ul.skill {
     -webkit-column-count: 3;
     -moz-column-count: 3;
     column-count: 3;
-    font: 16px/1.5em "Roboto"
-    margin-bottom: 5px;
+    font: 16px/1.5em "Roboto";
+    line-height:200%;
 }
 .progress {
 	overflow: visible;
