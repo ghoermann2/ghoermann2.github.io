@@ -429,7 +429,10 @@ a.rotate-box-1:hover {
 
 
 /* ===== Begin progress bar ===== */
-.skill-bar {
+ul.skill {
+    -webkit-column-count: 3;
+    -moz-column-count: 3;
+    column-count: 3;
 }
 .progress {
 	overflow: visible;
