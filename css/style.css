@@ -62,7 +62,7 @@ h1.resume {
     font: 30px/1.5em "Roboto";
     position: absolute;
     left: 300px;
-    top: 30px;
+    top: 0px;
 }
 
 h2 {
@@ -509,7 +509,7 @@ li.skk {
 }
 
 .cta-place{
-	right: 400px;
+	right: 200px;
 	position: absolute;
 }
 /* End cta section */
