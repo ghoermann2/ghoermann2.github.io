@@ -505,9 +505,12 @@ li.skk {
 	background-color: #FFF;
 }
 .cta-btn {
-	position: absolute;
 	margin-top: 30px;
-	left: 0px;
+}
+
+.cta-place{
+	right: 400px;
+	position: absolute;
 }
 /* End cta section */
 
