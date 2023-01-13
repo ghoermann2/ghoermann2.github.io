@@ -314,6 +314,17 @@ a.rotate-box-1, a.rotate-box-2 {
 a.rotate-box-1:hover, a.rotate-box-2:hover {
 	color: #676D75;
 }
+
+.hide {
+	opacity: 0;
+}
+a.rotate-box-1:hover .hide {
+	opacity: 1;
+}
+
+a.rotate-box-1:hover {
+	color: #676D75;
+}
 .rotate-box-1 .rotate-box-icon {
 	display: inline-block;
 	text-align: center;
