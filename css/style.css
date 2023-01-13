@@ -59,7 +59,7 @@ h1 {
 	font-size: 36px;
 }
 h1.resume {
-    font: 24px/1.5em "Roboto"
+    font: 24px/1.5em "Roboto";
     position: absolute;
     left: 100px;
     top: 50px;
