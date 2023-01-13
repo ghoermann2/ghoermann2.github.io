@@ -501,11 +501,11 @@ li.skk {
 
 /* Begin cta section */
 #cta-section {
-	padding: 30px 100px 80px;
+	padding: 70px 100px 80px;
 	background-color: #FFF;
 }
 .cta-btn {
-	margin-top: 30px;
+	margin-top: 0px;
 }
 /* End cta section */
 
