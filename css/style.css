@@ -88,9 +88,9 @@ p.left{
 	font: 16px/1.5em "Roboto";
 }
 li.left{
-	text-align: left;
 	font: 16px/1.5em "Roboto";
     	line-height:200%;
+	text-align: left;
 }
 
 .navbar-nav > li > a {
