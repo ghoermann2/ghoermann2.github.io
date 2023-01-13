@@ -486,6 +486,7 @@ li.skk {
 /* Begin cta section */
 #cta-section {
 	padding: 70px 0 80px;
+	background-color: #FFF;
 }
 .cta-btn {
 	margin-top: 30px;
