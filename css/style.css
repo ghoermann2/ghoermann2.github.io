@@ -77,6 +77,9 @@ h5 {
 p {
 	font: 14px/1.5em "Roboto";
 }
+p.big{
+	font: 16px/1.5em "Roboto";
+}
 .navbar-nav > li > a {
 	font-family: "Lato", Helvetica, Arial, sans-serif;
 }
