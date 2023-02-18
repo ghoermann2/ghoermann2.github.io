@@ -214,7 +214,7 @@
 	}
 
 	/* Some Text Center Area */
-	#cta-section, #about-section, #contact-section, #contact-section .contact .form-control {
+	#cta-section, #about-section, #contact-section, #contact-section, #Art .contact .form-control {
 		text-align: center;
 	}
 
