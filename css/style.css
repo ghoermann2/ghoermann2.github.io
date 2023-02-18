@@ -49,9 +49,6 @@ h1 {
 }
 h1.resume {
     font: 26px/1.5em "Roboto";
-    position: absolute;
-    left: 300px;
-    top: 0px;
 }
 
 h2 {
