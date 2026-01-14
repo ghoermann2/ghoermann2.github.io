@@ -335,7 +335,8 @@ a.rotate-box-1:hover {
 	display: inline-block;
 	text-align: center;
 	margin-bottom: 15px;
-	margin-right: 25px;
+	margin-right: 15px;
+	margin-left: 15px;
 	margin-top: 10px;
 	float:left;
 	-webkit-transition: all 0.2s ease-in-out;
@@ -345,7 +346,7 @@ a.rotate-box-1:hover {
 	transition: all 0.2s ease-in-out;
 }
 .rotate-box-1.square-icon .rotate-box-icon, .rotate-box-2.square-icon .rotate-box-icon {
-	width: 45px;
+	width: 55px;
 	height: 45px;
 	line-height: 45px;
 	color: #FFF !important;
@@ -1170,6 +1171,7 @@ p.subtitle {
 	transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
+
 
 
 
