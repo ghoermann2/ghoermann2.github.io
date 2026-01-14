@@ -337,7 +337,7 @@ a.rotate-box-1:hover {
 	margin-bottom: 15px;
 	margin-right: 25px;
 	margin-top: 10px;
-	float:none;
+	float:left;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	-o-transition: all 0.2s ease-in-out;
@@ -1170,6 +1170,7 @@ p.subtitle {
 	transform: rotate(-45deg);
 }
 /* ===== End buttons ===== */
+
 
 
 
