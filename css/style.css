@@ -510,18 +510,18 @@ li.skk {
 }
 .testimonial-inner {
 	position: relative;
-	max-width: 800px;
+	max-width: 900px;
 	z-index: 9;
 }
 .testimonial-inner .heading {
-	margin-bottom: 0px;
+	margin-bottom: 10px;
 }
 .testimonial-inner blockquote {
 	border: none;
 }
 .testimonial-inner blockquote p {
 	letter-spacing: 2px;
-	padding-bottom: 20px;
+	padding-bottom: 10px;
 }
 .testimonial-inner blockquote cite {
 	font-style: normal;
